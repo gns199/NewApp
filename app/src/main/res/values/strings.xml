@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="result">result</string>
+    <string name="roll_now">Roll Now</string>
+</resources>
